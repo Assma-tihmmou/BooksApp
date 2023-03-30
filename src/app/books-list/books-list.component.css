@@ -1,0 +1,21 @@
+.table{
+  margin: auto;
+  width: 90% !important;
+  --bs-table-striped-bg: #fceaec!important;
+}
+.search{
+  width: 30% ;
+}
+button{
+  border:none;
+}
+th{
+  background-color:#f1c0c5 ;
+}
+
+.form-control:focus {
+  border-color: #5d4e4e;
+  box-shadow: inset 0 1px 1px rgba(92, 88, 88, 0.075), 0 0 8px rgba(209, 184, 184, 0.6);
+}
+
+
